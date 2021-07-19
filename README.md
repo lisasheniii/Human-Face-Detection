@@ -1,2 +1,2 @@
-# hello-world
+# Human Face Detection
 just another repository
